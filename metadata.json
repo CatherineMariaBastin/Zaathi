@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Zaathi - Caregiver Companion",
+  "description": "An intelligent, multilingual caregiver assistant designed to help manage patients, medicine schedules, and health alerts with advanced voice support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
